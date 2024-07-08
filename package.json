@@ -34,7 +34,8 @@
     "swiper": "^11.0.4",
     "typescript": "^4.8.3",
     "universal-cookie": "^4.0.4",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "webbluetooth": "^3.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
